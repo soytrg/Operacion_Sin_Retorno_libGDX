@@ -16,3 +16,6 @@ comando: git clone https://github.com/soytrg/Operacion_Sin_Retorno_libGDX
 
 Estado actual del proyecto: Configuracion Inicial.
 
+[Ver la propuesta del proyecto aqui](https://github.com/soytrg/Operacion_Sin_Retorno_libGDX/wiki/Propuesta-del-Proyecto-%E2%80%90-Operacion-Sin-Retorno)
+
+
