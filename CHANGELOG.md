@@ -9,4 +9,5 @@ y este proyecto sigue [SemVer](https://semver.org/lang/es/).
 ### Añadido
 - Creación inicial del proyecto con estructura base generada por LibGDX.
 - Configuración de plataformas objetivo: escritorio.
-- Creación de archivos iniciales: README.md, CHANGELOG.md.
+- Creación de archivos iniciales: README.md, CHANGELOG.md, gitignore.
+- Creacion de la wiki.
