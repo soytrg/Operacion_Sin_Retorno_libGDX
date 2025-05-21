@@ -8,5 +8,5 @@ y este proyecto sigue [SemVer](https://semver.org/lang/es/).
 ## [0.1.0] - 2025-05-21
 ### Añadido
 - Creación inicial del proyecto con estructura base generada por LibGDX.
-- Configuración de plataformas objetivo: escritorio y móvil.
+- Configuración de plataformas objetivo: escritorio.
 - Creación de archivos iniciales: README.md, CHANGELOG.md.
