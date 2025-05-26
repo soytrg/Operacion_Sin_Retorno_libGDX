@@ -20,14 +20,14 @@ LibGDX, Eclipse, Escritorio.
 
 Esto serviria para obtener la carpeta con los archivos, ahora **para importar todo esto a Eclipse** se deben de seguir estos pasos:
   1. Anda a _**"File"**_ > _**"Import..."**_.
-  2. Selecciona _**"Gradle"_** > _**"Existing Gradle Project"_**.
+  2. Selecciona _**"Gradle"**_ > _**"Existing Gradle Project"**_.
   3. Navega hasta la carpeta raíz del proyecto generado y seguí los pasos del asistente.
      
 Ahora para verificar la ejecucion del programa siga estos pasos:
   1. Una vez importado _(puede tardar un rato en importar el proyecto, aunque veas que ya se importó debajo de todo puede aparecer un         mensaje que dice **“importing x Gradle Project”**. Hasta que este mensaje no desaparezca el proyecto no estará importado)_, busca 
     el módulo/subproyecto de escritorio. Nota: Con Liftoff, en general se llama lwjgl3 en lugar de desktop.
   2. Dentro de ese módulo, busca la clase lanzadora _(ej. Lwjgl3Launcher.java)_ y ejecutala _(Run As > Java Application o similar)_.
-  3. Deberías ver la pantalla de ejemplo de la plantilla que elegiste (o la imagen por defecto de LibGDX si no elegiste plantilla). Es      posible que necesites configurar el _**"Working Directory"_** en la configuración de ejecución para que apunte a la carpeta _assets/_ 
+  3. Deberías ver la pantalla de ejemplo de la plantilla que elegiste (o la imagen por defecto de LibGDX si no elegiste plantilla). Es      posible que necesites configurar el _**"Working Directory"**_ en la configuración de ejecución para que apunte a la carpeta _assets/_ 
   del proyecto _core/_ si las imágenes no cargan.
 ---
 ## Estado actual del proyecto: 
