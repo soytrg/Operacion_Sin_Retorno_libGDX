@@ -32,7 +32,19 @@ Ahora para verificar la ejecucion del programa siga estos pasos:
 ---
 ## Estado actual del proyecto: 
 Configuracion Inicial.
-
+---
+## Caracteristicas implementadas:
+1. Renderizado de mapas
+2. colisiones
+3. Power up de recarga rapida
+4. Hud
+5. Camaras y viewports
+6. Controladores de audio.
+7. Menus, de pausa y de inicio, mas el de dificultades, el de personalizacion y opciones
+8. Modo un jugador.
+9. saltos y movimientos del jugador.
+10. cambios de imagen de las distintas posiciones que el jugador puede tomar.
+11. Musica y efectos de sonido.
 ---
 **[Ver la propuesta del proyecto aqui](https://github.com/soytrg/Operacion_Sin_Retorno_libGDX/wiki/Propuesta-del-Proyecto-%E2%80%90-Operacion-Sin-Retorno)**
 
