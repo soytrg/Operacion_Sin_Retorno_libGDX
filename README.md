@@ -46,6 +46,8 @@ Configuracion Inicial.
 10. cambios de imagen de las distintas posiciones que el jugador puede tomar.
 11. Musica y efectos de sonido.
 ---
+Video Corto de Demostración: https://youtu.be/AsC5mjTf9jE?si=EFnS2WcgFe1nhFAF
+---
 **[Ver la propuesta del proyecto aqui](https://github.com/soytrg/Operacion_Sin_Retorno_libGDX/wiki/Propuesta-del-Proyecto-%E2%80%90-Operacion-Sin-Retorno)**
 
 
