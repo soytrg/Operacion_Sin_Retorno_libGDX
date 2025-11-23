@@ -70,4 +70,4 @@ subprojects {
   }
 }
 
-eclipse.project.name = 'OperacionSinRetorno' + '-parent'
+eclipse.project.name = 'OperacionSinRetornoUSB' + '-parent'

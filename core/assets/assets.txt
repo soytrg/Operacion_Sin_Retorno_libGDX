@@ -1,0 +1,31 @@
+Efectos de sonido/Sonido de salto.mp3
+Efectos de sonido/disparar.mp3
+Efectos de sonido/menu_move.mp3
+Efectos de sonido/menu_select.mp3
+Efectos de sonido/powerup.mp3
+Efectos de sonido/recargar.mp3
+Jugador Imagenes/player.png
+Jugador Imagenes/player_down.png
+Jugador Imagenes/player_shoot_left_up.png
+Jugador Imagenes/player_shoot_right_up.png
+Jugador Imagenes/player_up.png
+Jugador Imagenes/player_walk.png
+Mapas_Niveles/Nivel 1/Fondo.jpg
+Mapas_Niveles/Nivel 1/Fondo.tsx
+Mapas_Niveles/Nivel 1/Nivel 1.tmx
+Mapas_Niveles/Nivel 1/PALMERA.png
+Mapas_Niveles/Nivel 1/PALMERA.tsx
+Mapas_Niveles/Nivel 1/Tileset beach.png
+Mapas_Niveles/Nivel 1/bloque de aparicion.png
+Mapas_Niveles/Nivel 1/bloque de aparicion.tsx
+Mapas_Niveles/Nivel 1/tienda.png
+Mapas_Niveles/Nivel 2/Tileset beach.tsx
+Mapas_Niveles/Nivel 2/background forest (2).jpg
+Mapas_Niveles/Nivel 2/dirtblock.png
+Mapas_Niveles/Nivel 2/dirtblock.tsx
+Mapas_Niveles/Nivel 2/grassblock.png
+Mapas_Niveles/Nivel 2/grassblock.tsx
+Mapas_Niveles/Nivel 2/nivel 2.tmx
+Mapas_Niveles/Nivel 2/tienda (2).png
+Musica/Musica nivel 1.mp3
+libgdx.png
